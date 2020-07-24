@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vuex 스토어 속성 모듈화 방법"
+title:  "Vuex 스토어 속성 모듈화 방법1"
 date:   2020-07-24 11:39:58 +0900
 categories: jekyll update
 ---
