@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Vuex와 State"
+date:   2020-07-24 11:39:58 +0900
+categories: jekyll update
 ---
 
 `Vuex란?`
@@ -37,7 +39,7 @@ new Vue({
 - View : 데이터를 표시하는 화면 template
 - Action : 사용자의 입력에 따라 데이터를 변경하는 methods
 
-`Vuex 구조`
+`Vuex 구조`  
 뷰 컴포넌트 > 비동기 로직 > 동기 로직 > 상태 
 - 시작점은 Vue Components 
 - 컴포넌트에서 비동기 로직(Method를 선언해서 API를 콜하는 부분)인 Actions를 콜하고,
